@@ -29,3 +29,18 @@ term is used.
 or validation sets are used solely for evaluating the performance of a final
 set of candidate models.
  
+* The predictors, independent variables, attributes, or descriptors are the
+data used as input for the prediction equation.
+
+* Outcome, dependent variable, target, class, or response refer to the
+outcome event or quantity that is being predicted.
+
+* Outcome, dependent variable, target, class, or response refer to the
+outcome event or quantity that is being predicted.
+
+* Categorical data, otherwise known as nominal, attribute, or discrete data,
+take on specific values that have no scale. Credit status (“good” or “bad”)
+or color (“red,” “blue,” etc.) are examples of these data.
+
+* Model building, model training, and parameter estimation all refer to the
+process of using data to determine values of model equations.
